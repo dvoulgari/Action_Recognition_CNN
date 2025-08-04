@@ -51,9 +51,8 @@ Final deliverables include:
 1. Install **Python 3.x** and **pip**  
 2. Install required libraries:  
    ```pip install keras tensorflow matplotlib numpy```
-For GPU support:
+3. For GPU support:
 ``` pip install tensorflow[and-cuda] ```
-Optional: Install Jupyter Notebook for interactive experiments.
 ---
 **Requirements**
 - Python 3.x
